@@ -4,7 +4,7 @@
 
 ## Installation
 
-Just place [`.lua`](https://github.com/bungle/lua-resty-xxhash/blob/master/lib/resty/xxhash.lua) somewhere in your `package.path`, preferably under `resty` directory. If you are using OpenResty, the default location would be `/usr/local/openresty/lualib/resty`.
+Just place [`xxhash.lua`](https://github.com/bungle/lua-resty-xxhash/blob/master/lib/resty/xxhash.lua) somewhere in your `package.path`, preferably under `resty` directory. If you are using OpenResty, the default location would be `/usr/local/openresty/lualib/resty`.
 
 ### Compiling and Installing xxHash C-library
 
